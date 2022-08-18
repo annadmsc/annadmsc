@@ -1,16 +1,26 @@
-### Hi there 👋
+## Olá Devs⚡!
 
-<!--
-**annadmsc/annadmsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Bem Vindo(a) Ao Meu GitHub 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pronomes ela/dela
+- Estudante de Ensino Médio Técnico em Desenvolvimento de Sistemas 
+- Atualmente Trabalhando como Estágiaria no Instituto J&F em Projetos Diversos,Back-end e Front-end
+
+## Interesses
+- Back-end
+- CyberSecurity
+- Infraestrutura (De Dados e Servidores)
+- Ciência de Dados
+
+## Pontos Fortes 
+ - Trabalho em Grupo
+ - Criatividade
+ - Sempre Aprendendo
+ - Curiosidade
+ 
+
+#### Para Colaborações Entre em Contatato :
+          - email: aclaradamas@gmail.com ✍️
+          
+
