@@ -1,13 +1,13 @@
-#Bem-Vindo ao meu github! 
+# Bem-Vindo ao meu github! 
 
-##Sobre Mim: 
+## Sobre Mim: 
 -  Ela/Dela
 -  Estudante de Ciência e Tecnologia - UFABC
 -  Dev Backend Jr
 -  Apaixonada por tecnologia, segurança digital e inovação. Trabalho com Node.js, Prisma, SQL Server, Azure e AWS, sempre buscando desafios e aprendizado contínuo.
 
 
-##Eventos: 
+## Eventos: 
 
 🔐 CTF Security For Women 2025
 🚗 AWS DeepRacer 2024 – Machine Learning aplicado a corrida.
